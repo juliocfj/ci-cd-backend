@@ -1,0 +1,6 @@
+fastapi[all]
+gunicorn
+uvicorn
+celery
+redis
+
